@@ -23,4 +23,5 @@ Learning git.
 1. C
 
 ***********
-TAke me to [Your leader](https://www.whitehouse.gov)
+Take me to [Your leader](https://www.whitehouse.gov)
+Show me the real leader ![Some adorable cat image]()
