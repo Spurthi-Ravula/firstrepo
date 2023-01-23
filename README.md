@@ -7,14 +7,14 @@ Learning git.
 1. A
 13. B
     1. Cat
-    2.  2. Dog
-    3.  3.Fish
+    2.  Dog
+    3.  Fish
 2. C
 
 * Banana
    * Chocolate
-	    * Icecream
-	    * coke
+     * Icecream
+     * coke
    * Apple
 * Orange
 
@@ -24,4 +24,4 @@ Learning git.
 
 ***********
 Take me to [Your leader](https://www.whitehouse.gov)
-Show me the real leader ![Some adorable cat image]()
+Take me to another page ![Some adorable cat image](cat_page.md)
