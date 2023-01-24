@@ -24,4 +24,4 @@ Learning git.
 
 ***********
 Take me to [Your leader](https://www.whitehouse.gov)
-Take me to another page ![Some adorable cat image](cat_page.md)
+<!-- Take me to another page ![Some adorable cat image](cat_page.md) -->
